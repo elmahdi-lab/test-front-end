@@ -41,7 +41,7 @@ const propertyList = computed( () => {
           <v-icon
             large
             color="green darken-2"
-            @click="showOne(property.key)"
+            @click="showOne(property.address)"
           >
             mdi-domain
           </v-icon>

@@ -9,9 +9,6 @@ function search(keyword) {
 }
 
 function findOne(address) {
-
-    address = address.replaceAll('_', ' ');
-    
     let result = data.biens.filter( (bien) => {
         return bien.address_line1 === address;
     });
