@@ -1,0 +1,58 @@
+{
+  "biens": [
+    {
+      "address_line1": "50 rue chat",
+      "ville": "Montauban",
+      "type": "Villa",
+      "prix": "104000",
+      "unit": "€",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yWqDAuILcWJVb40LUGWLty6LqvZHhHNPsQ&usqp=CAU",
+      "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
+    },
+    {
+      "address_line1": "231 rue THOR",
+      "ville": "Bruxelle",
+      "type": "Appartment",
+      "prix": "12300",
+      "unit": "€",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IG-MsmXC_fjx9Jey-EFEND7AoVOhToSMBg&usqp=CAU",
+      "description": " C'est un appartement très charmant, avec son balcon exposé coté sud .........."
+    },
+    {
+      "address_line1": "74 avenue de bravour",
+      "ville": "Mons",
+      "type": "Bengalo",
+      "prix": "12083",
+      "unit": "€",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZmBlM-Ha0x_uBSbewRCHGyj5KFiEjnSKRw&usqp=CAU",
+      "description": " C'est un bengalo très charmant, avec sa terrasse aménagée.........."
+    },
+    {
+      "address_line1": "24 rue de strasbourg",
+      "ville": "Paris",
+      "type": "Villa",
+      "prix": "500030",
+      "unit": "€",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5yWqDAuILcWJVb40LUGWLty6LqvZHhHNPsQ&usqp=CAU",
+      "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
+    },
+    {
+      "address_line1": "434 rue générale de Gaulle",
+      "ville": "Bordeau",
+      "type": "Villa",
+      "prix": "239845",
+      "unit": "€",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IG-MsmXC_fjx9Jey-EFEND7AoVOhToSMBg&usqp=CAU",
+      "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
+    },
+    {
+      "address_line1": "56 rue zitoune",
+      "ville": "Casablanca",
+      "type": "Villa",
+      "prix": "312988",
+      "unit": "Dh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuZmBlM-Ha0x_uBSbewRCHGyj5KFiEjnSKRw&usqp=CAU",
+      "description": " C'est une villa très charmante, avec son jardin exposé coté sud .........."
+    }
+  ]
+}
